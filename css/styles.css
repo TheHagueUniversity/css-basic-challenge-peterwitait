@@ -68,6 +68,15 @@ h3 {
   border-bottom: none;
 }
 
+.btn2 {
+  color: #020122;
+  background: #FC9E4F;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
 
 /* Profile
 ------------------------------------*/
